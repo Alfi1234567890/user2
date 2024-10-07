@@ -1,0 +1,12 @@
+[
+    {
+        "name": "City Hospital",
+        "patientCount": 120,
+        "location": "Downtown"
+    },
+    {
+        "name": "General Hospital",
+        "patientCount": 80,
+        "location": "Uptown"
+    }
+]
